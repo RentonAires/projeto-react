@@ -1,0 +1,15 @@
+input,
+fieldset {
+    display: flex;
+    align-items: center;
+}
+
+select,
+textarea,
+button {
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+    border-radius: 5px;
+    margin: 10px;
+}
